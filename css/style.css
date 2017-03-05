@@ -1,0 +1,549 @@
+
+
+.logo{
+    width: 80px;
+    height: 80px;
+}
+.header{
+    text-indent: 150px;
+    width: 1000px
+    margin: 10px auto 10px auto;
+}
+
+.pak{
+position: relative;
+    top: -29px;
+    left: 10px;
+width: 1000px;
+margin: 10px auto 10px auto;
+}
+
+.account{
+    left: 159px;
+    top: -29px;
+    position: relative;
+    color: #2965be;
+    font-weight: bold;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    width: 1000px;
+margin: 0px auto 0px auto;
+}
+
+.headerbutton
+{
+         left: 172px;
+    top: -28px;
+    position: relative;
+    color: white;
+    background-color: #ff7700;
+    padding: 8px 0pxpx 8px 0px;
+    border-radius: 3px;
+    font-weight: bold;
+    border: none;
+    width: 120px;
+    margin: 0px auto 0px auto;
+    height: 35px;
+
+}
+
+.icon{
+    left: -5px;
+    position: relative;
+    top: 9px;
+    width: 25px;
+    margin: 0px auto 0px auto;
+}
+
+.form{
+    
+   height: 50px;
+    background-color:#b0cfda;
+    width: 500px;
+   padding: 5px 3px 11px 177px;
+   margin: 0px auto -6px auto;
+    border-radius: 5px 5px 5px 5px;
+    position: relative;
+    top: -12px;
+
+}
+.pakistan{
+   margin: 0px auto 0px auto;
+   padding-top: 14px;
+   border-radius: 5px 5px 5px 5px;
+   border: none;
+   color: gray;
+   font-size: 14px;
+   padding-top: 10px;
+       padding-bottom: 11px;
+       position: relative;
+    right: 162px;
+    top: 10px;
+    width: 178px;
+    height: 15px;
+}
+
+.add{
+       margin: 0px auto 0px auto;
+    padding-top: 14px;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    padding-right: 165px;
+    color: gray;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 11px;
+    position: relative;
+    top: -28px;
+    right: -31px;
+    width: 165px;
+    height: 15px;
+   }
+
+.search{
+        background: #2965be;
+    color: white;
+    font-size: 14px;
+    height: 38px;
+    width: 109px;
+    margin: auto auto auto auto;
+    border-color: white;
+    border-radius: 6px 6px 6px 6px;
+    position: relative;
+    top: -27px;
+    left: 46px;
+    height: 38px;
+}
+
+.searchone{
+    height: 11px;
+    width: 21px;
+}
+
+.table{
+   font-size: 12px;
+    margin: -7px auto 12px auto;
+    color: #2965be;
+    width: 334px;
+    height: 259px;
+    position: relative;
+    left: -143px;
+    top: -2px;
+   
+}
+
+.mobile{
+    border-top: none;
+    border-left: none;
+    border-right: 0.5px solid;
+border-bottom: 0.5px solid;
+border-color: lightgray;
+}
+
+
+.electronics{
+    border-bottom: 0.5px solid;
+    border-right: 0.5px solid;
+    border-color: lightgray;
+}
+
+.cars{
+      border-bottom: 0.5px solid;
+    border-right: 0.5px solid;
+border-color: lightgray;
+text-indent: 2px;
+padding-left: 2px;
+
+
+}
+.bikes{
+    border-bottom: 0.5px solid;
+border-color: lightgray;
+}
+
+.kids{
+border-right: 0.5px solid;
+border-color: lightgray;
+}
+
+
+.jobs{
+border-right: 0.5px solid;
+
+border-color: lightgray;
+}
+
+
+.services{
+border-right: 0.5px solid;
+border-color: lightgray;
+}
+
+
+.property{
+
+border-color: lightgray;
+}
+
+.mobilefig{
+  width: 28px;
+    height: 40px;
+    padding-left: 5px;
+}
+
+.oven{
+    width: 40px;
+   
+    padding-left: 5px;
+}
+
+.car{
+    width: 40px;
+    height: 30px;
+    padding-left: 15px;
+    
+}
+.hover:hover{
+    color: orange;
+}
+.bike{
+    width: 40px;
+    height: 30px;
+    padding-left: 15px;
+}
+
+.sofa{
+     width: 40px;
+    height: 30px;
+    padding-left: 5px;
+}
+
+.dog{
+    width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.books{
+    width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.glasses{
+    width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.trolley{
+    width: 40px;
+    height: 30px;
+    padding-left: 2px;
+    padding-right: 10px;
+}
+.briefcase{
+  width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.phone{
+    width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.building{
+     width: 40px;
+    height: 30px;
+    padding-left: 18px;
+}
+
+.backimage{
+  
+  
+  background-image: url(../images/background.png);
+    height: 500px;
+    width: 2000px;
+    background-repeat: no-repeat;
+    position: relative;
+    right: 143px;
+}
+
+.backgroundtwo{
+    padding-left: 190px;
+    width: 600px;
+    padding-top: 84px;
+    position: relative;
+    left: 150px;
+}
+.igoogle{
+    position: relative;
+        bottom: 376px;
+    left: 603px;
+}
+
+.g{
+    width: 100px;
+}
+.i{
+     width: 100px;
+}
+
+.footer{
+    position: relative;
+    bottom: 306px;
+    left: 163px;
+}
+
+.footerlist{
+    list-style: none;
+    
+    font-size: 12px;
+    position: relative;
+    top: -93px;
+    left: 90px;
+    margin: auto;
+}
+
+.footerlisttwo{
+    list-style: none;
+    font-size: 12px;
+    position: relative;
+   top: -158px;
+    left: 224px;
+    margin: auto;
+}
+li:hover{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    color:#2965be;
+}
+
+.categories{
+    list-style: none;
+    font-size: 12px;
+    position: relative;
+    left: -33px;
+    
+}
+
+li>a:hover{
+    color: orange;
+}
+
+.mobilemain{
+    border: 1px solid #ededed;
+    position: relative;
+        width: 670px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 154px;
+    height: 380px;
+    border-radius: 5px;
+}
+
+.mobilediv{
+    width: 200px;
+    background-color: #f8f8f8;
+    height: 380px;
+    position: relative;
+    top: -25px;
+    left: -5px;
+}
+
+h6{
+    font-weight: normal;
+    position: relative;
+top: 13px;
+    left: -3px;
+    
+}
+
+a>p{
+    
+   font-size: 12px;
+   position: relative;
+    top: -3px;
+    left: -3px;
+    
+}
+
+li{
+     margin: 3px;
+}
+
+.bottom{
+    border-bottom: 1px solid #e6e6e6;
+    width: 150px;
+ position: relative;
+ left: 20px;
+}
+iframe{
+    position: relative;
+    right: -199px;
+    top: -414px;
+    bottom: 358px;
+    width: 467px;
+    height: 295px;
+}
+
+.mobilecategory{
+ width: 33px;
+    height: 49px;
+    position: relative;
+    right: -49px;
+    top: 6px;
+}
+
+.mobilehead{
+    font-weight: normal;
+    font-size: 16px;
+    position: relative;
+    left: 139px;
+    top: -55px;
+}
+.mobilepara{
+      position: relative;
+    left: 139px;
+   top: -69px;
+    font-size: 12px;
+}
+
+.mobilelink{
+        position: relative;
+    left: 139px;
+    top: -84px;
+    font-size: 12px;
+}
+.mobilelink:hover{
+    color: orange;
+}
+.mobilecon{
+    border-bottom: 1px solid #e6e6e6;
+    height: 73px;
+    position: relative;
+    top: 17px;
+}
+.mobilelinkone{
+    position: relative;
+    left: 11px;
+    top: 10px;
+    font-size: 14px;
+}
+.mobileparatwo{
+        position: relative;
+    left: 105px;
+    top: -18px;
+    font-size: 12px;
+}
+
+
+.mobileconone{
+    height: 36px;
+    background-color: rgb(255, 255,128);
+    position: relative;
+    top: 8px;
+    border-radius: 2px;
+    width: 500px;
+}
+.mobilelinkone:hover{
+    color: orange;
+}
+
+.categories>li{
+    margin: 10px;
+}
+.mobilecheck{
+    width: 10px;
+    position: relative;
+    top: 11px;
+    left: 11px;
+}
+
+.mobilelinkone{
+   
+    
+}
+
+/*#border{
+    border: 5px solid black;
+    border-radius: 1em 2em 1em 3em/2em 3em 4em 5em;
+    height: 500px;
+  
+}*/
+
+.first{
+    width: 1000px;
+    margin: 10px auto 10px auto;
+    height: auto;
+}
+
+.mainhr{
+    position: relative;
+    top: -6px;
+    width: 6000px;
+    right: 1591px;
+    margin: auto;
+    color: gray;
+    
+}
+
+
+.mobilegreen{
+    width: 29px;
+    height: 40px;
+    position: relative;
+    left: 22px;
+}
+
+.mobiletable{
+    position: relative;
+    left: 7px;
+    top: 30px;
+}
+
+.borderhover:hover{
+border: 2px solid #2965be
+}
+.borderhover{
+   border-radius: 5px;
+}
+.padding1{
+       padding: 14px 4px 1px 8px;
+       font-size: 14px;
+}
+
+.tablets{
+ width: 30px;
+    height: 43px;
+        position: relative;
+    left: 5px;
+    }
+    .padding2{
+       padding:11px 26px 0px 28px;
+       font-size: 14px;
+    }
+
+    .padding3{
+        padding: 10px 11px 2px 16px;
+        font-size: 14px;
+    }
+
+    .accessories{
+        width: 32px;
+    height: 43px;
+    position: relative;
+    left: 15px;
+    }
+
+    .eoven{
+           width: 72px;
+    position: relative;
+    top: 14px;
+    left: 20px;
+    
+    }
